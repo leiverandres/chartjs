@@ -1,0 +1,21 @@
+{
+  "name": "chartjs",
+  "homepage": "https://github.com/sebas095/chartjs",
+  "authors": [
+    "Leiver Andres Campeon <leiverandres04p@hotmail.com>"
+  ],
+  "description": "learning chartjs",
+  "main": "main.html",
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chart.js": "chartjs#^2.3.0"
+  }
+}
